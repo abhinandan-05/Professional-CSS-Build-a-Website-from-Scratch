@@ -77,3 +77,11 @@ textarea,
 select {
   font-family: inherit;
 }
+
+/* Inherit fonts for inputs and buttons */
+input,
+button,
+textarea,
+select {
+  font-family: inherit;
+}
